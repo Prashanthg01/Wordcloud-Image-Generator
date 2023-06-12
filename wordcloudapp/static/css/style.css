@@ -1,0 +1,37 @@
+.main-body {
+    background: lightskyblue;
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+textarea {
+    border-radius: 10px;
+    width: 500px;
+    height: 150px;
+    background: #fff;
+    color: #000c9b;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 15px;
+}
+img {
+    width: inherit;
+    border-radius: 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;   
+}
+button {
+    padding: 10px 15px;
+    background: crimson;
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    border: none;
+}
+button a {
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}

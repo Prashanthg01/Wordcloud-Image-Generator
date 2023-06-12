@@ -1,0 +1,36 @@
+# Django-related files
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+
+# Dependency directories
+/env/
+/.venv/
+/node_modules/
+
+# Local development settings
+/.env
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+
+# Compiled files
+*.pyc
+*.class
+
+# Logs and temporary files
+*.log
+*.bak
+*.swp
+.DS_Store
+
+# OS generated files
+ehthumbs.db
+Thumbs.db
+
+# Ignore the virtual environment
+venv/
